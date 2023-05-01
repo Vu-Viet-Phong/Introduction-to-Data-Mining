@@ -1,0 +1,3 @@
+module idm {
+	requires weka;
+}
