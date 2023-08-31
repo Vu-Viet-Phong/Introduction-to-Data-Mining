@@ -1,1 +1,1 @@
-# idm_project
+# Introduction to Data Mining
